@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+output.xml
+log.html
+report.html
+.robotframework/
+__init__.py
+venv/
+cucumber-reports/
+.cucumber/
